@@ -1,0 +1,24 @@
+DSA is defined as a combination of two separate yet interrelated topics – 
+                          Data Structure 
+                              and 
+                          Algorithms.
+
+DATA STRUCTURES 🌞
+--> A data structure is defined as a particular data in our devices to use the data efficiently and effectively. 
+--> The main idea behind using data structures is to minimize the time and space complexities. 
+--> An efficient data structure takes minimum memory space and requires minimum time to execute the data.
+
+ALGORITHMS  🌞
+It is a set of operations performed in a step-by-step manner to execute a task.
+
+Why should you learn dsa? 🧐
+--> Every basic, as well as advanced, 
+💻  software and internet service
+💻  searching a topic on the internet,
+use data structure or algorithm to implement.
+
+DSA is the heart of root programming ❤ 
+
+
+
+
