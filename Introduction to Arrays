@@ -1,6 +1,16 @@
-This will cover:
-Introduction
-Types 
-Declaration 
-Traversal
-Standard Problems
+◻ This will cover:
+✅ Introduction
+✅ Types 
+✅ Declaration 
+✅ Traversal
+✅ Standard Problems
+
+◻ Introduction :
+An array is a collection of items of the same data type stored in contiguous memory locations.
+
+◻ Types:
+1) 1D
+2) 2D
+3) Multi-Dimensional Array
+
+
