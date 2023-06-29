@@ -1,1 +1,30 @@
 
+                                                        Reversing an array
+                                                     **   WITHOUT USING SPACE  **
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int [5] = {1,2,3,4,5}
+    
+    int l = 0;
+    int r = 4;
+    while(l < r)
+     {
+
+        // Swap a[l] and a[r]
+        int temp = a[r];
+        a[r] = a[l];
+        a[l] = temp;
+
+      }
+
+for(int i = 0;i<5;i++)
+{
+    cout << a[i] << " ";
+}
+
+
+        
