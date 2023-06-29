@@ -4,7 +4,7 @@ It will cover topics from basic to advanced topics that will help you build a st
 This will also serve as a helping hand in acing tech interviews and college exams.
 
 
-1) DSA INTRODUCTION
+1) DSA INTRODUCTION 👩‍🏫
    
   1.1) Data structures
   
