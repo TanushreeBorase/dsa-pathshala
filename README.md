@@ -14,3 +14,4 @@ This will also serve as a helping hand in acing tech interviews and college exam
 2) INTRODUCTION TO ARRAYS
    
  2.1) Definition,Types,Declaration,Traversal,printing of arrays
+ 2.2) Standard Array Questions✍
