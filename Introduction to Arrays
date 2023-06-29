@@ -18,9 +18,19 @@ An array is a collection of items of the same data type stored in contiguous mem
 
 ◻ Declaration
     int arr[5] = { 1,2,4,5,7};
-    // Updation the elment at index position 3
+    // Updation of the element at index position 3
     arr[3] = 9;
     
-    
+◻ Traversal
+    // Function to traverse and print the array
+void printArray(int* arr,int n)
+{
+    int ;
+    cout << " Array : " ;
+    for(int i=0;i<n;i++)
+    {
+        cout << arr[i] << "   ";
+    }
+}
 
 
