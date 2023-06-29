@@ -20,3 +20,30 @@ int main()
   return 0;
 }
 
+
+PROBLEM STATEMENT 2:
+  Given an array of elements,find the maximum element.
+
+CODE:
+
+#include<bits/stdc++.h>  // header file which includes all the standard libraries
+using namespace std;
+
+int main()
+{
+  int a[5] = {1,2,4,6,0};
+  int max = a[0]; // Initiallization
+
+  for(int i=0;i<5;i++)
+  {
+      if(a[i] > max)
+      {
+          max = a[i];
+      }
+  }
+
+cout << "The maximum element in the array << max << endl;
+return 0;
+}
+
+
