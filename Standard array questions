@@ -47,3 +47,31 @@ return 0;
 }
 
 
+
+  PROBLEM STATEMENT 3:
+  Given an array of elements,find the count of even elements.
+
+CODE:
+
+#include<bits/stdc++.h>  // header file which includes all the standard libraries
+using namespace std;
+
+int main()
+{
+    int a[7] = { 1,2,4,5,7,8,10};
+    int count = 0;
+
+    for(int i = 0;i<7;i++)
+  {
+      // Checking if the element is even or not
+      if(a[i] % 2 == 0) 
+    
+      {
+          count = count + 1;
+      }
+
+  }
+
+cout << "The count of even numbers is " << count << endl;
+return 0;
+}
