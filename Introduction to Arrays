@@ -25,7 +25,7 @@ An array is a collection of items of the same data type stored in contiguous mem
     // Function to traverse and print the array
 void printArray(int* arr,int n)
 {
-    int ;
+    int i ;
     cout << " Array : " ;
     for(int i=0;i<n;i++)
     {
