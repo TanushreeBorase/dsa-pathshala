@@ -21,7 +21,7 @@ int main()
 }
 
 
-PROBLEM STATEMENT 2:
+  PROBLEM STATEMENT 2:
   Given an array of elements,find the maximum element.
 
 CODE:
