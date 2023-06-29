@@ -75,3 +75,35 @@ int main()
 cout << "The count of even numbers is " << count << endl;
 return 0;
 }
+
+
+  PROBLEM STATEMENT 1:
+  Given an array of elements,find the pair of elements with sum as 5.
+
+CODE:
+
+#include<bits/stdc++.h>  // header file which includes all the standard libraries
+using namespace std;
+
+int main()
+{
+    int a[5] = { 1,4,2,3,6};
+    int value = 5;
+
+    int count = 0;
+
+  for(int i = 0;i<5;i++)
+  {
+      for(int j = i + 1;j<5;j++)
+      {
+          if(a[i] + a[j] == 5)
+          {
+              count = count + 1;
+          }
+      }
+  }
+
+cout << "The sum of the elements with sum as : " << value << " is " << count ;
+return 0;
+}
+    
