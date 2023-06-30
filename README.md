@@ -30,4 +30,5 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 
 3) FUNCTIONS
-   3.1) Dive into Functions
+
+ 3.1) Dive into Functions 🧾
