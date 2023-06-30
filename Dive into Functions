@@ -2,9 +2,28 @@ Functions:
 A specific set of instructions to perform a well defined tasks.
 
 ◻ Declaration
-  ▫ Return Type
+  ▫ Return Type (int ,float,char..)
   ▫ Name of the function
   ▫ Set of Parameters
 
+Ex - Declare a method that adds two integrs to it. 
+      int add(int a,int b);
+
+Method definition:
+  actual logic / functionality of the function / method
+
+  int add(int a,int b)
+  {
+      int c = a + b;
+      return c;
+  }
+
+  ** Keyword  RETURN to return the value of the function
+
+
+       
+        
+        
+         
 
 
