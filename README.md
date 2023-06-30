@@ -1,7 +1,7 @@
 # DSA-pathshala
 This will provide access to data (Data structures and Algorithms ) in C++. 
 It will cover topics from basic to advanced topics that will help you build a strong grip over topics.
-This will also serve as a helping hand in acing tech interviews and college exams 👩‍🎓
+This will also serve as a helping hand in acing tech interviews and college exams.
 
 
 1) DSA INTRODUCTION 👩‍🏫
