@@ -25,4 +25,9 @@ This will also serve as a helping hand in acing tech interviews and college exam
  2.4) 2D Array print,sum    🟥🟥
                             🟥🟥
 
- 2.5) Searching in Arrays 🔍                    
+ 2.5) Searching in Arrays 🔍  
+
+
+
+3) FUNCTIONS
+   3.1) Dive into Functions
