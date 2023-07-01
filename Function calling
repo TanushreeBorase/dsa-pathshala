@@ -11,3 +11,24 @@ void addThreenumbers(int a , int b, int c)
     cout << a  + b + c;
     return;
 }
+
+PROBLEM STATEMENT:
+Write a program to pprint the numbers froom 5 to 10 (both included)
+
+CODE:
+
+#include<stdc++.h>
+usng namespace std;
+
+void printRange(int start, int end)
+{
+    cout << start << "  ";
+    start++;
+}
+
+int main()
+{
+    int start = 5;
+    int end = 10;
+
+    printRange(start,end);
