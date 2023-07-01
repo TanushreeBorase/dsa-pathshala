@@ -1,0 +1,3 @@
+Function calling :
+Ex:
+int sum = method name(set of parameters)
