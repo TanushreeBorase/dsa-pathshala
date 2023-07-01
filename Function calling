@@ -2,4 +2,12 @@ Function calling :
 Ex:
 int sum = method name(set of arguments)
 
-* Argumenrs used while calling a method.
+* Arguments used while calling a method.
+
+Write a method that prints the sum of three numbers provided to it.
+
+void addThreenumbers(int a , int b, int c)
+{
+    cout << a  + b + c;
+    return;
+}
