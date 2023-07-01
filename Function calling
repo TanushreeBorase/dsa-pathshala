@@ -1,3 +1,5 @@
 Function calling :
 Ex:
-int sum = method name(set of parameters)
+int sum = method name(set of arguments)
+
+* Argumenrs used while calling a method.
