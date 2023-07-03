@@ -38,6 +38,6 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
  4.1) if else, else if, nested if else
 
-5) Pattern Questions
+5) PATTERN QUESTIONS 🙌
  
 5.1) Diamond pattern
