@@ -41,4 +41,5 @@ This will also serve as a helping hand in acing tech interviews and college exam
 5) PATTERN QUESTIONS 🙌
  
 5.1) 0-1 pattern
+
 5.2) Diamond pattern
