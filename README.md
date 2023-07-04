@@ -45,3 +45,5 @@ This will also serve as a helping hand in acing tech interviews and college exam
 5.2) Diamond pattern 🔹
 
 5.3) flyod's triangle 🔺
+
+5.4) Rectangle pattern  
