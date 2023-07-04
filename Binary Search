@@ -1,0 +1,15 @@
+Searching is an important day to day operation and even in many software applications,
+we frequently search for data.  
+
+◻ SEARCHING
+It is a method to find some relevant information in a data set.
+
+
+◻ LINEAR SEARCHING
+The algorithm of linearly searching through the array is called Linear Search!
+
+🚀 BINARY SEARCH
+      ▫ Binary Search is an algorithm that can be used to search an element in sorted dataset.
+      ▫ By Sorted, we mean that the elements will either be in a natural ascending or descending order.
+                                    10, 20, 30, 40, 50
+                                     ( Sorted array)
