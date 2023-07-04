@@ -23,7 +23,7 @@ This will also serve as a helping hand in acing tech interviews and college exam
  2.3) Reversing Array Tricks 🧐
 
  2.4) 2D Array print ,sum    🟥🟥
-                            🟥🟥
+                             🟥🟥
 
  2.5) Searching in Arrays 🔍  
 
@@ -44,6 +44,11 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.2) Diamond pattern 🔹
 
-5.3) flyod's triangle 🔺
+5.3) Floyd's triangle 🔺
 
 5.4) Rectangle pattern  
+
+
+
+6) Binary Search
+6.1) Searching, 
