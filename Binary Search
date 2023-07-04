@@ -13,3 +13,15 @@ The algorithm of linearly searching through the array is called Linear Search!
       ▫ By Sorted, we mean that the elements will either be in a natural ascending or descending order.
                                     10, 20, 30, 40, 50
                                      ( Sorted array)
+
+s  mid  e
+▫ s is the start index
+▫ e is the end index
+▫ mid is the midpoint
+
+The element you are looking for key
+
+BINARY SEARCH
+▫ Binary Search is a DIVIDE and CONQUER algorithm.
+▫ It divides the ARRAY into TWO HALVES and tries to find the element k in one or the other half, not both. 
+  It keeps on doing this untill we either ind the element or the array is exhausted.
