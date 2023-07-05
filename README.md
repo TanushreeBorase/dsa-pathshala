@@ -46,6 +46,8 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.3) Floyd's triangle 🔺
 
+5.4) Butterfly pattern 🦋
+
 5.4) Rectangle pattern  
 
 
