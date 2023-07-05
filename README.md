@@ -48,9 +48,9 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.4) Butterfly pattern 🦋
 
-5.4) Rectangle pattern  
+5.5) Rectangle pattern  
 
-
+5.6) Zig-zag pattern 
 
 6) Binary Search
 6.1) Searching, 
