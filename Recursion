@@ -1,0 +1,18 @@
+🚀 RECURSION
+Recursion is a function calling itself.
+
+example:
+Sum(N) = N + Sum(N - 1)
+This is a recursive equation.
+
+General Framework
+1) Assumption
+  ▫ Fix what your function should do.
+  
+2) Main Logic
+  ▫ Recursive Equation
+
+3) Base Condition
+  ▫ Inputs for which we want to stop/terminate recursion
+     return
+
