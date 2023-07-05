@@ -55,9 +55,11 @@ This will also serve as a helping hand in acing tech interviews and college exam
 5.7) Number pattern 🔢
 
 6) Binary Search
+
 6.1) Searching, code overview
 
 7) RECURSION
+   
 7.1) General framework
    
 7.2) Print decreasing order
