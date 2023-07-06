@@ -1,0 +1,18 @@
+                                                          SORTING
+→ Sorting Algorithm 
+It is used to rearrange a given array or list of elements according to a comparison operator on the elements. 
+
+→ Selection sort 
+It is a simple and efficient sorting algorithm that works by repeatedly selecting the smallest (or largest) 
+element from the unsorted portion of the list and moving it to the sorted portion of the list. 
+
+→ Bubble sort 
+- traverse from left and compare adjacent elements and the higher one is placed at right side. 
+- In this way, the largest element is moved to the rightmost end at first. 
+- This process is then continued to find the second largest and place it and so on until the data is sorted.
+
+→ Insertion sort
+It is a simple sorting algorithm that works similar to the way you sort playing cards in your hands. 
+The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed 
+at the correct position in the sorted part.
+
