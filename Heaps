@@ -1,0 +1,28 @@
+              INTRODUCTION
+
+◻ Heaps are implemented using priority queue in c++. 
+
+◻ Maintains an ordering among elements.
+
+◻ Priority queues are built on the top to the max heap and uses array or vector as an internal structure.
+
+
+              TYPES OF HEAPS
+
+              ✅ Max-Heap
+              ✅ Min-Heap
+
+                
+                MAX HEAP
+◻ The queue maintains the elements in decreasing order.
+// declaring a max-heap of integers
+
+priority_queue<int> q2;
+
+// Important Note: default is max heap
+
+                MIN HEAP
+// declaring a min-heap of integers
+
+priority_queue <int>, vector<int>, greater<int> q1;
+
