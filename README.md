@@ -34,9 +34,12 @@ This will also serve as a helping hand in acing tech interviews and college exam
  3.1) Dive into Functions 🧾
  3.2) Finding odd even count 
 
+
 4) LOOPS
 
  4.1) if else, else if, nested if else
+
+ 
 
 5) PATTERN QUESTIONS 🙌
  
@@ -59,6 +62,8 @@ This will also serve as a helping hand in acing tech interviews and college exam
 6) Binary Search
 
 6.1) Searching, code overview
+
+
 
 7) RECURSION
    
