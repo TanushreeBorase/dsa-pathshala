@@ -76,3 +76,5 @@ This will also serve as a helping hand in acing tech interviews and college exam
 7.3) Print increasing order
 
 7.5) Print the array elements
+
+7.6) Find min in array
