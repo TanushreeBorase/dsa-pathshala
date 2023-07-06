@@ -23,6 +23,7 @@ int main()
     }
 
     int sum = 0;
+
     while(b != 0)
     {
         // max element present among currently present elements
@@ -32,5 +33,7 @@ int main()
 
         b--;
     }
+
+}
 
         
