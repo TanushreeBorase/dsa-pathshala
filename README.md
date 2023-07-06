@@ -91,3 +91,4 @@ This will also serve as a helping hand in acing tech interviews and college exam
 8.2) Profit Optimization ✅
 
 8.3) Magician and chocolates 🍫
+9) Sorting and its types
