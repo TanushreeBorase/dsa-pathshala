@@ -50,9 +50,11 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.5) Rectangle pattern  
 
-5.6) Zig-zag pattern 
+5.6) Zig-zag pattern 〽
 
 5.7) Number pattern 🔢
+
+5.8) Bubble Sort 🌀
 
 6) Binary Search
 
