@@ -78,3 +78,5 @@ This will also serve as a helping hand in acing tech interviews and college exam
 7.5) Print the array elements
 
 7.6) Find min in array
+
+7.7) Find factorial ❕
