@@ -59,7 +59,9 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.8) Bubble Sort 🌀
 
-6) Binary Search
+5.9) Reverse pattern ↩
+
+6) Binary Search 
 
 6.1) Searching, code overview
 
