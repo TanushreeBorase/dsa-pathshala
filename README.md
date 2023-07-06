@@ -79,6 +79,15 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 7.5) Print the array elements
 
-7.6) Find min in array
+7.6) Find min in the array
 
 7.7) Find factorial ❕
+
+
+8) Heaps
+
+8.1) Introduction, Syntax
+
+8.2) Priority Optimization ✅
+
+8.3) Magician and chocolates 🍫
