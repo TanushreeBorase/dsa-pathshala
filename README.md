@@ -88,6 +88,6 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 8.1) Introduction, Syntax
 
-8.2) Priority Optimization ✅
+8.2) Profit Optimization ✅
 
 8.3) Magician and chocolates 🍫
