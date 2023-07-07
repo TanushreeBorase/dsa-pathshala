@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int a[] = {1,2,4,3,5};
+    int sum = 9;
+
+    int x = -1;
+    int y = -1;
+
+    unordered_map<int ,int> m;
+    
+    for(int i = 0;i < 5;i++)
+    {
+        x = a[i];
+        pair = sum - x;
+
+        // element y is present
+        if(m.find(y) != m.end)
+        {
+            cout << i << "  " << m[y];
+            break;
+        }
+
+        if(m.find(x) == m.end())
+        {
+              m[x] = i;
+        }
+    }
+
+    return 0;
+}
