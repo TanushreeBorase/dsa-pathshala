@@ -19,7 +19,7 @@ case 4
 1) Directed cyclic growth
 2) Directed acyclic growth
 
-Representation of a matrix:
+Representation of Adjaceny matrix:
 1) Adjaceny matrix
 2) Adjaceny list
 
