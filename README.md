@@ -92,3 +92,9 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 8.3) Magician and chocolates 🍫
 9) Sorting and its types
+
+10) Hashmap
+    
+10.1)  Functions on hashmap
+
+10.2) Finding the repeating element
