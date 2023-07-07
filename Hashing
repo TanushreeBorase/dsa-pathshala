@@ -1,0 +1,27 @@
+◻ Implemented using Hashmap in C++
+◻ Each element has a key-value pair
+◻ No two mapped values can have the same key values
+
+Types:
+▫ Ordered map
+▫ Unordered map
+
+// declaring an ordered map
+
+map<int, int> m1;
+
+// declaring an unordered map
+unordered_map<string, int> m2;
+
+
+◻ Functions on Hashmap
+
+methods               description
+insert({k,v})        inserts elements(k,v pair) in the map
+find(k)              returns the iterator to the element with key k if found, else returns the  iterator to the end
+begin()              returns an iterator to the first element in the map
+end()                returns an iterator to the theoretical element that follows the last element in the map
+size()               returns the number of elements in the map
+empty()              returns true if the map is empty
+
+
