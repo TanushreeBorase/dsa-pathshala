@@ -1,1 +1,29 @@
+Introduction to Graphs:
 It is nothing but a collection of nodes connectd to each other using edges.
+
+Classification of graphs:
+
+case 1
+1) Directed
+2) Undirected
+
+case 2
+1) Weighed
+2) Unweighed
+
+case 3
+1) Undirected cyclic graph
+2) Undirected acyclic graph
+
+case 4
+1) Directed cyclic growth
+2) Directed acyclic growth
+
+Representation of a matrix:
+1) Adjaceny matrix
+2) Adjaceny list
+
+
+
+
+
