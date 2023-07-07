@@ -98,3 +98,10 @@ This will also serve as a helping hand in acing tech interviews and college exam
 10.1)  Functions on hashmap
 
 10.2) Finding the repeating element
+
+10.3) Two out of three
+
+10.4) Anagrams
+
+10.5) 2 sum
+
