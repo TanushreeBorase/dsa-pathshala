@@ -111,3 +111,6 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
  12) Strings
 12.1) Cpp example     
+
+   13) Trees 🌳🌱
+13.1) Basic terminologies and operations       
