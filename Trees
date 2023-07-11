@@ -1,0 +1,39 @@
+Terminologies:
+Parent Node: The node which is a predecessor of a node is called the parent node of that node.
+
+Child Node: The node which is the immediate successor of a node is called the child node of that node. 
+
+Root Node: The topmost node of a tree or the node which does not have any parent node is called the root node.
+
+Leaf Node or External Node: The nodes which do not have any child nodes are called leaf nodes.
+
+Ancestor of a Node: Any predecessor nodes on the path of the root to that node are called Ancestors of that node. 
+
+Descendant: Any successor node on the path from the leaf node to that node. 
+
+Sibling: Children of the same parent node are called siblings.
+
+Level of a node: The count of edges on the path from the root node to that node. The root node has level 0.
+
+nternal node: A node with at least one child is called Internal Node.
+
+Neighbour of a Node: Parent or child nodes of that node are called neighbors of that node.
+
+Subtree: Any node of the tree along with its descendant.
+
+
+
+Basic Operation Of Tree Data Structure:
+Create – create a tree in the data structure.
+
+Insert − Inserts data in a tree.
+
+Search − Searches specific data in a tree to check whether it is present or not.
+
+Traversal:
+Preorder Traversal – perform Traveling a tree in a pre-order manner in the data structure.
+
+In order Traversal – perform Traveling a tree in an in-order manner.
+
+Post-order Traversal –perform Traveling a tree in a post-order manner.
+
