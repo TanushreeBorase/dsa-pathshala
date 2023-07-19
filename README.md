@@ -16,15 +16,14 @@ This will also serve as a helping hand in acing tech interviews and college exam
   
 2) INTRODUCTION TO ARRAYS
    
- 2.1) Definition,Types,Declaration,Traversal,printing of arrays 🟦🟦🟦🟦🟦
+ 2.1) Definition,Types,Declaration,Traversal,printing of arrays 
  
  2.2) Standard Array Questions✍
  
  2.3) Reversing Array Tricks 🧐
 
- 2.4) 2D Array print ,sum    🟥🟥
-                             🟥🟥
-
+ 2.4) 2D Array print ,sum   
+ 
  2.5) Searching in Arrays 🔍  
 
 
@@ -107,7 +106,8 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 11) Graphs
 
-11.1) INtroduction to graphs , types, examples    
+11.1) INtroduction to graphs , types, examples  
+11.2) Delelete cycle in a directed graph
 
  12) Strings
 12.1) Cpp example     
