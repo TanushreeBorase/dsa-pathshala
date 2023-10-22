@@ -4,7 +4,7 @@ It will cover topics from basic to advanced topics that will help you build a st
 This will also serve as a helping hand in acing tech interviews and college exams.
 
 
-1) DSA INTRODUCTION 👩‍🏫
+# DSA INTRODUCTION 👩‍🏫
    
   1.1) Data structures
   
@@ -14,7 +14,7 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 
   
-2) INTRODUCTION TO ARRAYS
+# INTRODUCTION TO ARRAYS
    
  2.1) Definition,Types,Declaration,Traversal,printing of arrays 
  
@@ -28,19 +28,18 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 
 
-3) FUNCTIONS
+# FUNCTIONS
 
  3.1) Dive into Functions 🧾
  3.2) Finding odd even count 
 
 
-4) LOOPS
+# LOOPS
 
  4.1) if else, else if, nested if else
 
  
-
-5) PATTERN QUESTIONS 🙌
+# PATTERN QUESTIONS 🙌
  
 5.1) 0-1 pattern
 
@@ -62,13 +61,13 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.10) Palindrome
 
-6) Binary Search 
+# Binary Search 
 
 6.1) Searching, code overview
 
 
 
-7) RECURSION
+# RECURSION
    
 7.1) General framework
    
@@ -83,16 +82,16 @@ This will also serve as a helping hand in acing tech interviews and college exam
 7.7) Find factorial ❕
 
 
-8) Heaps
+# Heaps
 
 8.1) Introduction, Syntax
 
 8.2) Profit Optimization ✅
 
 8.3) Magician and chocolates 🍫
-9) Sorting and its types
 
-10) Hashmap
+
+# Hashmap
     
 10.1)  Functions on hashmap
 
@@ -104,13 +103,13 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 10.5) 2 sum
 
-11) Graphs
+# Graphs
 
 11.1) INtroduction to graphs , types, examples  
 11.2) Delelete cycle in a directed graph
 
- 12) Strings
-12.1) Cpp example     
+    
 
-   13) Trees 🌳🌱
-13.1) Basic terminologies and operations       
+#  Trees 🌳🌱
+13.1) Basic terminologies and operations  
+13.2) Check if a binary tree is bst or not
