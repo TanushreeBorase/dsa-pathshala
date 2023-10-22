@@ -90,6 +90,10 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 8.3) Magician and chocolates 🍫
 
+# Queues
+
+9.1) Implementing queue from scratch
+
 
 # Hashmap
     
