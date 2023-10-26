@@ -90,28 +90,32 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 8.3) Magician and chocolates 🍫
 
+# Stacks
+
+9.1) Balanced parathesis
+
 # Queues
 
-9.1) Implementing queue from scratch
+10.1) Implementing queue from scratch
 
 
 # Hashmap
     
-10.1)  Functions on hashmap
+11.1)  Functions on hashmap
 
-10.2) Finding the repeating element
+11.2) Finding the repeating element
 
-10.3) Two out of three
+11.3) Two out of three
 
-10.4) Anagrams
+11.4) Anagrams
 
-10.5) 2 sum
+11.5) 2 sum
 
 # Graphs
 
-11.1) INtroduction to graphs , types, examples  
+12.1) INtroduction to graphs , types, examples  
 
-11.2) Delelete cycle in a directed graph
+12.2) Delelete cycle in a directed graph
 
     
 
