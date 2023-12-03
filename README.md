@@ -117,7 +117,7 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 12.2) Delelete cycle in a directed graph
 
-    
+12.3) Adjacency List
 
 #  Trees 🌳🌱
 13.1) Basic terminologies and operations  
