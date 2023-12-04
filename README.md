@@ -122,3 +122,6 @@ This will also serve as a helping hand in acing tech interviews and college exam
 #  Trees 🌳🌱
 13.1) Basic terminologies and operations  
 13.2) Check if a binary tree is bst or not
+
+# Linked List
+14.1) Circular Linked List Traversal
