@@ -61,11 +61,11 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.10) Palindrome
 
-# Binary Search 
+# Searching Techniques
 
-6.1) Searching, code overview
+6.1) Binary Search, code overview
 
-
+6.2) Linear Search
 
 # RECURSION
    
