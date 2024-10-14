@@ -55,11 +55,7 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 5.7) Number pattern 🔢
 
-5.8) Bubble Sort 🌀
-
-5.9) Reverse pattern ↩
-
-5.10) Palindrome
+5.8) Reverse pattern ↩
 
 # Searching Techniques
 
@@ -125,3 +121,10 @@ This will also serve as a helping hand in acing tech interviews and college exam
 
 # Linked List
 14.1) Circular Linked List Traversal
+
+# Practice
+two sum
+palindrome
+bubble sort
+
+
